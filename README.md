@@ -1,2 +1,4 @@
-# my_python_projects
-Learning Python. My sample projects
+# My Python Projects
+
+Learning Python. 
+My sample projects
