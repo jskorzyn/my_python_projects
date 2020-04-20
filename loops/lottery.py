@@ -8,4 +8,3 @@ while decision == "yes":
         i = i+1
         user_numbers.append = input("Give a number:" )
         print(user_numbers)
-        print("test")
